@@ -32,3 +32,4 @@ print(msg1.title())
 subject_template = "thanks for learning {} with us {}"
 
 print(subject_template.format("python", firstName))
+
